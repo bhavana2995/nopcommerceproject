@@ -29,7 +29,7 @@ public class BasePage {
     }
 
     public void manageBrowser(){
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 

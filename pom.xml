@@ -10,7 +10,6 @@
     <name>nopcommerce</name>
     <url>http://maven.apache.org</url>
 
-    //rakesh
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cucumber.version>1.2.5</cucumber.version>
